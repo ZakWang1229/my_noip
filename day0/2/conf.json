@@ -1,0 +1,126 @@
+{
+  "compile": {
+    "c": "-O2 -std=c11",
+    "cpp": "-O2 -std=c++14",
+    "java": "",
+    "pas": "-O2",
+    "py": ""
+  },
+  "data": [
+    {
+      "args": {
+        "X": 5,
+        "Y": 7,
+        "Z": 5,
+        "n": 8
+      },
+      "cases": [
+        "min1",
+        "min2",
+        "min3",
+        "min4",
+        "min5"
+      ],
+      "score": 20
+    },
+    {
+      "args": {
+        "X": 1,
+        "Y": 1,
+        "Z": 1,
+        "n": 40
+      },
+      "cases": [
+        111
+      ],
+      "score": 5
+    },
+    {
+      "args": {
+        "X": 1,
+        "Y": 2,
+        "Z": 1,
+        "n": 40
+      },
+      "cases": [
+        121
+      ],
+      "score": 5
+    },
+    {
+      "args": {
+        "X": 2,
+        "Y": 2,
+        "Z": 2,
+        "n": 40
+      },
+      "cases": [
+        222
+      ],
+      "score": 20
+    },
+    {
+      "args": {
+        "X": 5,
+        "Y": 7,
+        "Z": 5,
+        "n": 40
+      },
+      "cases": [
+        "subtask0_sample_01",
+        "subtask0_sample_02",
+        "subtask0_sample_03",
+        "subtask0_sample_04",
+        "subtask1_01",
+        "subtask1_02",
+        "subtask1_03",
+        "subtask1_04",
+        "subtask1_05",
+        "subtask1_06",
+        "subtask1_07",
+        "subtask1_08",
+        "subtask1_09",
+        "subtask1_10",
+        "subtask1_11",
+        "subtask1_12",
+        "subtask1_13",
+        "subtask1_14",
+        "subtask1_15",
+        "subtask1_16",
+        "subtask1_17",
+        "subtask1_18",
+        "subtask1_19",
+        "subtask1_20",
+        "subtask1_21",
+        "subtask1_22",
+        "subtask1_23",
+        "subtask1_24",
+        "subtask1_25",
+        "subtask1_max1",
+        "subtask1_max2"
+      ],
+      "score": 50
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "512 MiB",
+  "name": "2",
+  "partial score": false,
+  "pre": [],
+  "samples": [
+    {
+      "cases": [
+        "ex1",
+        "ex2",
+        "ex3"
+      ]
+    }
+  ],
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "2"
+  },
+  "type": "program",
+  "users": {},
+  "version": 2
+}

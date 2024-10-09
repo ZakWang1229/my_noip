@@ -1,0 +1,114 @@
+{
+  "args": {
+    "n": 1000
+  },
+  "compile": {
+    "c": "-O2 -std=c11",
+    "cpp": "-O2 -std=c++14",
+    "java": "",
+    "pas": "-O2",
+    "py": ""
+  },
+  "data": [
+    {
+      "args": {
+        "V": 20000,
+        "c": 1000000000,
+        "n": 20
+      },
+      "cases": [
+        "data31",
+        "data32",
+        "data33",
+        "data34",
+        "data35",
+        "data36",
+        "data37",
+        "data38",
+        "data39"
+      ],
+      "score": 10
+    },
+    {
+      "args": {
+        "V": 200,
+        "c": 1000000000,
+        "n": 20000
+      },
+      "cases": [
+        "data1",
+        "data2",
+        "data101",
+        "data102",
+        "data103",
+        "data104",
+        "data105",
+        "data106",
+        "data107",
+        "data108",
+        "data109",
+        "data110"
+      ],
+      "score": 30
+    },
+    
+    {
+      "args": {
+        "V": 20000,
+        "c": 1000000000,
+        "n": 20000
+      },
+      "cases": [
+        "data3",
+        "data4",
+        "data5",
+        "data6",
+        "data7",
+        "data8",
+        "data9",
+        "data10",
+        "data11",
+        "data12",
+        "data13",
+        "data14",
+        "data15",
+        "data16",
+        "data17",
+        "data18",
+        "data19",
+        "data20",
+        "data21",
+        "data22",
+        "data23",
+        "data24",
+        "data25",
+        "data26",
+        "data27",
+        "data28",
+        "data29",
+        "data30"
+      ],
+      "score": 60
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "512 MiB",
+  "name": "3",
+  "partial score": false,
+  "pre": [],
+  "samples": [
+    {
+      "cases": [
+        "ex1",
+        "ex2"
+      ]
+    }
+  ],
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "3"
+  },
+  "type": "program",
+  "users": {},
+  "version": 2
+}

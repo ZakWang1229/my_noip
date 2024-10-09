@@ -1,0 +1,57 @@
+{
+  "compile": {
+    "c": "-O2 -std=c11",
+    "cpp": "-O2 -std=c++14",
+    "java": "",
+    "pas": "-O2",
+    "py": ""
+  },
+  "data": [
+    {
+      "args": {
+        "|m|": 20,
+        "|n|": 20
+      },
+      "cases": [
+        "data9",
+        "data10"
+      ],
+      "score": 20
+    },
+    {
+      "args": {
+        "|m|": 1000000,
+        "|n|": 1000000
+      },
+      "cases": [
+        "data1",
+        "data2",
+        "data3",
+        "data4",
+        "data5",
+        "data6",
+        "data7",
+        "data8"
+      ],
+      "score": 80
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "512 MiB",
+  "name": "1",
+  "partial score": false,
+  "pre": [],
+  "samples": [
+    {
+      "cases": [
+        "ex1"
+      ]
+    }
+  ],
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "1"
+  },
+  "type": "program",
+  "version": 2
+}

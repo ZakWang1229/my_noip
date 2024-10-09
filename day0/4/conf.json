@@ -1,0 +1,122 @@
+{
+  "args": {
+    "n": 1000
+  },
+  "compile": {
+    "c": "-O2 -std=c11",
+    "cpp": "-O2 -std=c++14",
+    "java": "",
+    "pas": "-O2",
+    "py": ""
+  },
+  "data": [
+    {
+      "args": {
+        "bin": "三个样例",
+        "k": 10000,
+        "n": 2000
+      },
+      "cases": [
+        "smallrand0",
+        "smallrand1",
+        "smallrand2"
+      ],
+      "score": 1
+    },
+    {
+      "args": {
+        "bin": "A",
+        "k": 10000,
+        "n": 2000
+      },
+      "cases": [
+        "allsame0",
+        "allsame_ex0",
+        "kaidan0"
+      ],
+      "score": 9
+    },
+    {
+      "args": {
+        "bin": "B",
+        "k": 10000,
+        "n": 2000
+      },
+      "cases": [
+        "zzza0"
+      ],
+      "score": 20
+    },
+    {
+      "args": {
+        "bin": "C",
+        "k": 10000,
+        "n": 2000
+      },
+      "cases": [
+        "abab0"
+      ],
+      "score": 20
+    },
+    {
+      "args": {
+        "bin": "无",
+        "k": 10000,
+        "n": 2000
+      },
+      "cases": [
+        "abab0",
+        "abten0",
+        "bigrand0",
+        "bigrand1",
+        "firstlast0",
+        "firstlast1",
+        "fullrand0",
+        "fullrand1",
+        "fullrand2",
+        "kaidan0",
+        "maxrand0",
+        "maxrand1",
+        "maxrand2",
+        "roll_hyper0",
+        "roll_hyper1",
+        "roll_hyper_r0",
+        "rolling0",
+        "rolling1",
+        "smallc0",
+        "smallc1",
+        "zzza0",
+        "0_sample01",
+        "0_sample02",
+        "0_sample03",
+        "allsame0",
+        "allsame_ex0",
+        "smallrand0",
+        "smallrand1",
+        "smallrand2"
+      ],
+      "score": 50
+    }
+  ],
+  "folder": "problem",
+  "memory limit": "512 MiB",
+  "name": "4",
+  "partial score": false,
+  "pre": [],
+  "samples": [
+    {
+      "cases": [
+        "smallrand0",
+        "smallrand1",
+        "smallrand2"
+      ]
+    }
+  ],
+  "time limit": 1.0,
+  "title": {
+    "zh-cn": "4"
+  },
+  "type": "program",
+  "users": {},
+  "version": 2
+}
