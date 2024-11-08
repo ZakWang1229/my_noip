@@ -32,10 +32,6 @@ wm4 拿到了 $n$ 个正整数 $a_1,a_2, \cdots ,a_n$ 和一个正整数 $c$
 
 {{ self.sample_text() }}
 
-{{ s('sample', 'ex2') }}
-
-{{ self.sample_file() }}
-
 {{ s('subtasks') }}
 
 {{ tbl('data') }}
